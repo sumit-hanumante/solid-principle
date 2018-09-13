@@ -1,8 +1,5 @@
 package open_closed_Principle.withoutImplementingOpenClosedPrinciple;
 
-/**
- * Created by sumit on 9/14/2018.
- */
 public class Main {
 
     public static void main(String[] args) {
