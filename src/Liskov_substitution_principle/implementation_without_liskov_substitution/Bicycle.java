@@ -1,4 +1,4 @@
-package Liskov_substitution_principle.implementation_withut_liskov_substitution;
+package Liskov_substitution_principle.implementation_without_liskov_substitution;
 
 public class Bicycle extends TransportationDevice
 {
