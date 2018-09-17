@@ -1,8 +1,6 @@
                 Liskov Substitution Principle
-
-
-
-        A class can be replaced by its subclass in all practical usage scenarios.
+          
+      A class can be replaced by its subclass in all practical usage scenarios.
 
 
 The principle defines that objects of a superclass shall be replaceable with objects of its subclasses
